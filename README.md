@@ -1,9 +1,11 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>  -->
+
+# <div align="center">👋 Hola Amigos</div>  
   
 
-### <div align="center"> I'm Jerry, a Software Engineer, Freelance Developer, YouTuber, and Instructor 🚀🚀</div>  
+## <div align="center"> I'm Jerry, a Software Engineer, Freelance Developer, YouTuber, and Instructor 🚀🚀</div>  
   
 
 - 🔭 I'm currently working on my express-js course for YouTube 🔥🔥🔥!  
@@ -107,7 +109,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jerryHolurantie&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryHolurantie&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryHolurantie&hide_border=true&layout=compact" align="center" /> </div>
+
 
 <br/>  
 
