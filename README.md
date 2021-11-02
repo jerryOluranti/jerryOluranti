@@ -1,11 +1,8 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  -->
 
 # <div align="center">👋 Hola Amigos</div>  
   
 
-## <div align="center"> I'm Jerry, a Software Engineer, Freelance Developer, YouTuber, and Instructor 🚀🚀</div>  
+## <div align="center"> I'm Jerry!<br/>A Software Engineer, Freelance Developer, YouTuber and Instructor 🚀🚀🚀</div>  
   
 
 - 🔭 I'm currently working on my express-js course for YouTube 🔥🔥🔥!  
@@ -20,7 +17,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects, Build my word scramble game for android 😎  
   
 
-- ⚡ Fun fact: I love gaming but have absolutely no time to play 😂  
+- ⚡ Fun fact: I love gaming but have absolutely no time to play games 😂  
   
 
 <br/>  
