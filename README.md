@@ -5,7 +5,7 @@
 ### <div align="center"> I'm Jerry!<br/>A Software Engineer, Freelance Developer, YouTuber and Instructor 🚀🚀🚀</div>  
   
 
-- 🔭 I'm currently working on my express-js course for YouTube 🔥🔥🔥!  
+- 🔭 Express-js course released on YouTube 🔥🔥🔥 Check it out via https://youtube.com/playlist?list=PLVF1KUlYP4OYwgak0JxUH2IYa_-ZXoVJA  
   
 
 - 🌱 I’m currently learning Typescript, DevOps 🤪  
