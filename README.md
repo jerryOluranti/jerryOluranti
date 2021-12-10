@@ -8,7 +8,7 @@
 - 🔭 Express-js course released on YouTube 🔥🔥🔥 Check it out via https://youtube.com/playlist?list=PLVF1KUlYP4OYwgak0JxUH2IYa_-ZXoVJA  
   
 
-- 🌱 I’m currently learning Typescript, DevOps 🤪  
+- 🌱 I’m currently learning Rust, DevOps 🤪  
   
 
 -  👯 I’m looking to collaborate with other devs and engineers  
