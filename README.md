@@ -2,7 +2,7 @@
 # <div align="center">👋 Hola Amigos</div>  
   
 
-### <div align="center"> I'm Jerry!<br/>A Software Engineer, Freelance Developer, YouTuber and Instructor 🚀🚀🚀</div>  
+### <div align="center"> I'm Jeremiah Faluyi!<br/>A Software Engineer, Freelance Developer, YouTuber and Mentor 🚀🚀🚀</div>  
   
 
 - 🔭 Express-js course released on YouTube 🔥🔥🔥 Check it out via https://youtube.com/playlist?list=PLVF1KUlYP4OYwgak0JxUH2IYa_-ZXoVJA  
