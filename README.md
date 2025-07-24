@@ -2,22 +2,13 @@
 # <div align="center">👋 Hola Amigos</div>  
   
 
-### <div align="center"> I'm Jeremiah Faluyi!<br/>A Software Engineer, Freelance Developer, YouTuber and Mentor 🚀🚀🚀</div>  
+### <div align="center"> I'm Jeremiah Faluyi!<br/>A Software Engineer, Systems Design Expert, Tech Consultant and Mentor</div>  
   
 
 - 🔭 Express-js course released on YouTube 🔥🔥🔥 Check it out via https://youtube.com/playlist?list=PLVF1KUlYP4OYwgak0JxUH2IYa_-ZXoVJA  
   
 
-- 🌱 I’m currently building SaaS at <a href="https://pyvot360.com" target="_blank">Pyvot360</a> 🤪  
-  
-
 -  👯 I’m looking to collaborate with other devs and engineers  
-  
-
-- 🥅 2023 Goals: Build, scale and bootstrap my SaaS startup  
-  
-
-- ⚡ Fun fact: I love gaming but have absolutely no time to play games 😂  
   
 
 <br/>  
