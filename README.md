@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerryOluranti.jerryOluranti&left_color=%2324292e&right_color=%23007ACC" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=jerryOluranti&color=61DAFB&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 # <div align="center">🚀 Hola, I'm Jeremiah Faluyi!</div>
