@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jerryOluranti&color=61DAFB&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=jerryOluranti&color=grey&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 # <div align="center">🚀 Hola, I'm Jeremiah Faluyi!</div>
