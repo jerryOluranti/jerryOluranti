@@ -118,7 +118,9 @@ I’ve mentored dozens of engineers on their journey to Seniority. I focus on **
 
 ### ☕ Support the Grind
 <div align="center">
-  <a href="https://paypal.me/alpha9931" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" />
+  <!-- <a href="[https://paypal.me/alpha9931](https://selar.com/showlove/jerryoluranti)" target="_blank"> -->
+  <a href="https://selar.com/showlove/jerryoluranti" target="_blank">
+    <img src="https://img.shields.io/badge/Selar-Donate-6B21A8?style=for-the-badge&logoColor=white" alt="Donate on Selar" />
+    <!-- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" /> -->
   </a>
 </div>
